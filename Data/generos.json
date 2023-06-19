@@ -1,0 +1,34 @@
+[
+    {
+        "Nome": "Eletronica", 
+        "Cor": "#7149C6"
+    },
+    {
+        "Nome": "Hip-hop",
+        "Cor": "#97DEFF"
+    },
+    {
+        "Nome": "Rap", 
+        "Cor": "#DF2E38"
+    },
+    {
+        "Nome": "Pop",
+        "Cor": "#FFA3FD"
+    },
+    {
+        "Nome": "Indie", 
+        "Cor": "#B9F3E4"
+    },
+    {
+        "Nome": "MPB",
+        "Cor": "#698269"
+    },
+    {
+        "Nome": "R&B", 
+        "Cor": "#2B3467"
+    },
+    {
+        "Nome": "Dance",
+        "Cor": "#B3005E"
+    }
+]

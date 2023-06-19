@@ -1,0 +1,13 @@
+.card img {
+    background-color: lightgray;
+}
+
+.card:hover {
+    transform: scale(1.07);
+    transition: 0.5s;
+    z-index: 1000;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

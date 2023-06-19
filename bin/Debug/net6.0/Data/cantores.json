@@ -1,0 +1,76 @@
+[
+    {
+        "Numero": 1,
+        "NomeArtistico": "The Weeknd",
+        "Nome": "Abel Makkonen Tesfaye",
+        "Nascimento": "16-02-1990",
+        "Generos": [ "R&B", "Indie", "Eletronica" ],
+        "Biografia": "Abel Makkonen Tesfaye (Toronto, 16 de fevereiro de 1990), mais conhecido por seu nome artístico the Weeknd, é um cantor, compositor, ator e produtor musical canadense. Conhecido por sua versatilidade sonora e lirismo sombrio, suas músicas exploram temas de escapismo, romance e melancolia, e é frequentemente inspirada em experiências pessoais.",
+        "Imagem": "\\img\\cantores\\theweeknd.jpeg"
+    },
+    {
+        "Numero": 2,
+        "NomeArtistico": "Jão",
+        "Nome": "João Vitor Romania Balbino",
+        "Nascimento": "03-11-1994",
+        "Generos": [ "Dance", "Eletronica" ],
+        "Biografia": "João Vitor Romania Balbino, mais conhecido pelo seu nome artístico Jão, é um cantor e compositor brasileiro. Ele começou sua carreira musical em 2016, postando covers de canções no aplicativo de compartilhamento de vídeos YouTube.",
+        "Imagem": "\\img\\cantores\\jao.jpeg"
+    },
+    
+    {
+        "Numero": 3,
+        "NomeArtistico": "Eminem",
+        "Nome": "Marshall Bruce Mathers",
+        "Nascimento": "17-10-1972",
+        "Generos": [ "Rap", "Hip-hop"],
+        "Biografia": "Marshall Bruce Mathers III, mais conhecido pelo seu nome artístico Eminem, é um rapper, compositor, produtor musical e ator estadunidense. Adquiriu rápida popularidade em 1999 com o lançamento do disco The Slim Shady LP, o qual venceu o Grammy Award de Melhor Álbum de Rap do ano.",
+        "Imagem": "\\img\\cantores\\eminem.jpeg"
+    },
+    {
+        "Numero": 4,
+        "NomeArtistico": "Rhianna",
+        "Nome": "Robyn Rihanna Fenty",
+        "Nascimento": "20-02-1988",
+        "Generos": [ "Pop", "Eletronica" ],
+        "Biografia": "Robyn Rihanna Fenty, mais conhecida como Rihanna, é uma cantora, compositora, atriz e empresária barbadense. Sua carreira artística começou profissionalmente em 2003, quando ela realizou um teste para o produtor musical Evan Rogers, no qual foi aprovada.",
+        "Imagem": "\\img\\cantores\\rhianna.jpeg"
+    },
+    {
+        "Numero": 5,
+        "NomeArtistico": "Lagum",
+        "Nome": "Pedro Calais, Otavio Cardoso, Jorge, Francisco Jardim e anteriormente Tio Wilson",
+        "Nascimento": ".",
+        "Generos": [ "Pop", "MPB" ],
+        "Biografia": "Lagum é uma banda de pop e reggae brasileira formada em 2014 na cidade de Brumadinho, Minas Gerais. É composta por Pedro Calais, Otavio Cardoso, Jorge, Francisco Jardim e anteriormente Tio Wilson.",
+        "Imagem": "\\img\\cantores\\lagum.jpeg"
+    },
+    {
+        "Numero": 6,
+        "NomeArtistico": "Lana Del Rey",
+        "Nome": "Elizabeth Woolridge Grant",
+        "Nascimento": "21-06-1985",
+        "Generos": [ "Indie"],
+        "Biografia": "Lana Del Rey, é uma cantora, compositora e poetisa norte-americana. Sua música tem sido notada pelos críticos por seu aspecto cinematográfico estilizado, suas temáticas de romances trágicos, glamour e melancolia, e suas referências à cultura pop, especialmente a cultura dos Estados Unidos nos anos 1950 e 1960.",
+        "Imagem": "\\img\\cantores\\lanadelrey.jpeg"
+    },
+    
+    {
+        "Numero": 7,
+        "NomeArtistico": "Racionais MC's",
+        "Nome": "Pedro Pereira, Paulo Salvador, Edivaldo Alves, Kleber Simões ",
+        "Nascimento": ".",
+        "Generos": [ "Rap", "Hip-hop" ],
+        "Biografia": "Racionais MC's é um grupo brasileiro de rap fundado em 1988. É formado por Mano Brown, Ice Blue, Edi Rock e KL Jay. É o maior grupo de rap do Brasil, e está entre os grupos musicais mais influentes do país e da música brasileira.",
+        "Imagem": "\\img\\cantores\\racionais.jpeg"
+    },
+    {
+        "Numero": 8,
+        "NomeArtistico": "Travis Scott",
+        "Nome": "Jacques Berman Webster",
+        "Nascimento": "30-04-1991",
+        "Generos": [ "Rap", "Hip-hop" ],
+        "Biografia": "Jacques Berman Webster II, mais conhecido por seu nome artístico Travis Scott, é um rapper, cantor, compositor e produtor musical norte-americano. Em 2012, Scott assinou seu primeiro grande contrato com a gravadora Epic Records.",
+        "Imagem": "\\img\\cantores\\travisscott.jpeg"
+    }
+]
